@@ -10,10 +10,10 @@
 footer{
 
     margin-top: 20px;
-    background-color: rgb(69, 87, 102);
+    padding: 10px;
+    background-color: rgb(13, 68, 82);
 }
 
 main{
     font-family: 'Mooli', sans-serif;
 }
-
