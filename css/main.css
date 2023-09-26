@@ -17,38 +17,3 @@ footer{
 main{
     font-family: 'Mooli', sans-serif;
 }
-
-.myNav {
-    background-color: rgb(91, 146, 179);
-}
-
-.card img {
-    max-width: 100%; /* Establece un ancho máximo del 100% del contenedor */
-    height: auto; /* Ajusta automáticamente la altura proporcionalmente */
-}
-
-.card-title-centered {
-    text-align: center; /* Centra el texto horizontalmente */
-}
-
-h1, h2{
-    color: #333; /* Color del texto, puedes cambiarlo al color que desees */
-    font-size: 36px; /* Tamaño de fuente, ajusta según tu preferencia */
-    font-weight: bold; /* Grosor de fuente, puedes usar 'normal', 'bold', u otros valores */
-    text-align: center; /* Alineación del texto, 'center' para centrar horizontalmente */
-    text-transform: uppercase; /* Transforma el texto a mayúsculas, si lo deseas */
-}
-h3{
-    text-align: center;
-}
-
-
-
-.card {
-    border: 2px solid rgb(154, 196, 183); /* Borde de 2 píxeles de ancho y color rojo (#f00) */
-}
-
-/* Aplica un margen izquierdo a la primera tarjeta */
-.card:first-child {
-    margin-left: 20px; /* Ajusta el valor según cuánto quieras moverla a la derecha */
-}
